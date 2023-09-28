@@ -1,0 +1,9 @@
+programa teste
+    inteiro a
+inicio 
+    a <- 0
+    enquanto a < 10
+        a <- a + 1
+    fimenquanto
+    escreva(a)
+fimprograma
